@@ -10,6 +10,6 @@ spring:
       server:
         git:
           uri: https://github.com/VictoriaMRamirez/EspBackMSParcial
-          default-label: develop
+          default-label: master
           search-paths: config-data
           force-pull: true
